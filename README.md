@@ -11,19 +11,21 @@ I considere myself an autodidact, i spend my free time reading programming books
 
 
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working on 
 ### Pesate
 A web-app page dedicated to help confectionery pymes("Pequeñas y Medianas Empresas"/"Small and Medium businesses") finances by providing the cost of ingredients in Pesos Argentinos and Dolar Blue.
 
 <img src="https://user-images.githubusercontent.com/48614180/232339648-eecb67e3-c96e-479e-9433-e767381388a7.png" width=700px>
 
 ### EDA of Data Science jobs in Kaggle
-An EDA 
-## 🌱 I’m currently learning ...
+Using a Kaggle Database, i made an analysis of different types of jobs in the field of Data Science from the year 2020 to the year 2022, categorized by Salary, Remote Ratio, Location, Experience Level.
+
+
+## 🌱 I’m currently learning 
 * Studying my System Analyst Degree in Profesorado Pio IX
 * Taking courses at CS50
 
-## 📫 How to reach me: ...
+## 📫 How to reach me: 
 Look at my [Linkedin](https://www.linkedin.com/in/pedro-alabart-079b921ab/) profile.
 
 
