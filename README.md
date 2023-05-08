@@ -1,6 +1,6 @@
 # Hi there, I'm Pedro 👋
-I'm a System Analyst student at the Profesorado Pio IX institute.
-I consider myself an autodidact, i spend my free time reading programming books and taking online courses :D 
+I'm a System Analyst student at the Profesorado Pio IX institute. I consider myself an autodidact, i spend my free time reading programming books and taking online courses :D 
+
 My goal is to develop my professional career in Data Analytics.
 
 <br>
