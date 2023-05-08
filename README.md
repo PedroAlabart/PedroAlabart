@@ -1,9 +1,10 @@
 # Hi there, I'm Pedro 👋
 I'm a System Analyst student at the Profesorado Pio IX institute.
-I considere myself an autodidact, i spend my free time reading programming books and taking online courses :D 
+I consider myself an autodidact, i spend my free time reading programming books and taking online courses :D 
+My goal is to develop my professional career in Data Analytics.
+
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlabart&layout=compact)](https://github.com/PedroAlabart/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
