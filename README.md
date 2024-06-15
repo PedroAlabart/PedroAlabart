@@ -24,7 +24,7 @@ Using a Kaggle Database, i made an analysis of different types of jobs in the fi
 
 ## 🌱 I’m currently learning 
 * Studying my System Analyst Degree in Profesorado Pio IX
-* Taking courses at CS50
+* Taking the CS50AI Course
 
 ## 📫 How to reach me: 
 Take a look at my [Linkedin](https://www.linkedin.com/in/pedro-alabart-079b921ab/) profile.
